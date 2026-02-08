@@ -1,6 +1,6 @@
 # 🔐 LearnHub Admin App
 
-The **LearnHub Admin App** is the companion Android application for **[LearnHub – A Digital Classroom](https://github.com/JogeshMali/LearnHub)**. It empowers administrators to manage users and classrooms, making the LearnHub ecosystem centralized, secure, and organized.
+The **LearnHub Admin App** is the companion Android application for **[LearnHub – A Digital Classroom](https://github.com/abhijithshetty12/LearnHub-Main-App)**. It empowers administrators to manage users and classrooms, making the LearnHub ecosystem centralized, secure, and organized.
 
 ---
 
@@ -27,4 +27,4 @@ The **LearnHub Admin App** is the companion Android application for **[LearnHub 
 ## 🔗 Main App
 
 Looking for the main classroom app?  
-Check out 👉 **[LearnHub – A Digital Classroom](https://github.com/JogeshMali/LearnHub)**
+Check out 👉 **[LearnHub – A Digital Classroom](https://github.com/abhijithshetty12/LearnHub-Main-App)**
